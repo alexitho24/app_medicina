@@ -5,7 +5,7 @@ def index()->rx.components:
   return rx.vstack(
     navbar(),
     seccion(),
-    bg="#1d5cb0",
+    bg="#cdf9ff",
     height="100vh",
     align="center"
   )

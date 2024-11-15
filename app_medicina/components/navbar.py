@@ -4,7 +4,7 @@ def navbar()->rx.Component:
   return rx.box(
     rx.desktop_only(
       rx.hstack(
-        rx.heading("UpSkill",color="#eff9ff"),
+        rx.heading("Doc al rescate",color="#eff9ff"),
         rx.hstack(
           rx.link(
             rx.icon("youtube",color="#eff9ff")

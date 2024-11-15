@@ -10,13 +10,13 @@ def seccion_pc()->rx.Component:
     ),
     rx.heading(
       "con ",
-      rx.text.em("Up Skill",color="#92dafe"),
-      color="#eff9ff",
+      rx.text.em("Doc al rescate",color="#00addd"),
+      color="#cdf9ff",
       size="9",
       align="center"
     ),
     rx.hstack(
-      rx.text(rx.text.em("Upskill",color="#92dafe",weight="bold")," es una app diseñada para fortalecer tu aprendizaje en programación a través de quizzes diarios. Responde hasta 5 preguntas al día, sube de nivel y acumula puntos que podrás canjear por recompensas. ¡Únete a la competencia y mejora tus habilidades en programación! Regístrate ahora y empieza a aprender de manera divertida y efectiva.",size="5",color="#eff9ff",width="70vw"),
+      rx.text(rx.text.em("Doc al rescate",color="#0189b9",weight="bold")," La aplicación de medicina es una solución integral diseñada para mejorar la eficiencia y la calidad de la atención médica. Ofrece una amplia gama de herramientas y funcionalidades que permiten a los profesionales de la salud acceder, gestionar y analizar información médica de manera más efectiva. La aplicación se caracteriza por su enfoque en la facilidad de uso, la seguridad de los datos y la integración con sistemas médicos existentes.",size="5",color="#eff9ff",width="70vw"),
       rx.box(
         rx.image(src="/img_seccion.png",alt="Imagen de app"),
         width="30vw"
