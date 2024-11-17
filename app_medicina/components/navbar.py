@@ -26,7 +26,7 @@ def navbar()->rx.Component:
     ),
     rx.mobile_and_tablet(
       rx.hstack(
-        rx.heading("UpSkill",color="#eff9ff"),
+        rx.heading("Doc al rescate",color="#024959"),
         rx.hstack(
           rx.link(
             mi_button_s("user","Iniciar Sesion"),

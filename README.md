@@ -85,16 +85,6 @@ La aplicación recibe actualizaciones regulares para mantener la seguridad, la f
 
 La aplicación de medicina desarrollada ofrece una solución integral y eficiente para la gestión de datos y procesos médicos. Con sus funcionalidades clave, su diseño de interfaz de usuario intuitivo y su sólida integración de datos, la aplicación brinda a los profesionales de la salud las herramientas necesarias para mejorar la calidad y la eficiencia de la atención médica.
 
-
-
-
-
-
-
-
-
-
-
-
-
 En los próximos pasos, se planea expandir aún más las capacidades de la aplicación, incorporando funciones de análisis avanzado de datos, inteligencia artificial para asistencia clínica y herramientas de telemedicina. Estas mejoras permitirán a los usuarios sacar el máximo provecho de la aplicación y ofrecer una experiencia de atención médica aún más eficiente y de alto impacto.
+
+
