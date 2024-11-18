@@ -3,7 +3,7 @@ from ..components.mi_button import mi_button_p
 def seccion_pc()->rx.Component:
   return rx.desktop_only(
     rx.heading(
-      "Aprende, Juega y Mejora en Programación",
+      "Tecnología al servicio de tu salud",
       color="#eff9ff",
       size="8",
       align="center"

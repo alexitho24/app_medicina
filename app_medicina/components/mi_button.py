@@ -7,7 +7,7 @@ def mi_button_p(icon,text)->rx.components:
     size="3",
     variant="solid",
     radius="full",
-    background="#173154",
+    background="#000000",
     color="#eff9ff",
     border="solid #eff9ff"
   )
