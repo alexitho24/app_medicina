@@ -9,12 +9,11 @@ def navbar()->rx.Component:
           rx.link(
             rx.icon("youtube",color="#eff9ff")
           ),
+          
+      
           rx.link(
-            rx.icon("github",color="#eff9ff")
-          ),
-          rx.link(
-            mi_button_s("user","Iniciar Sesion"),
-            href="/login"
+            mi_button_s("user","saber más"),
+            href="https://app.jotform.com/243327787319669"
           ),
           justify="end",
           spacing="5",
@@ -26,11 +25,11 @@ def navbar()->rx.Component:
     ),
     rx.mobile_and_tablet(
       rx.hstack(
-        rx.heading("Doc al rescate",color="#024959"),
+        rx.heading("Doc al rescate",color="#eff9ff"),
         rx.hstack(
           rx.link(
-            mi_button_s("user","Iniciar Sesion"),
-            href="/login"
+            mi_button_s("user", "saber más "),
+            href="https://www.jotform.com/app/build/243327787319669/publish/link"
           ),
           justify="end"
         ),

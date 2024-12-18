@@ -6,6 +6,7 @@ def mi_button_p(icon,text)->rx.components:
     text,
     size="3",
     variant="solid",
+    
     radius="full",
     background="#000000",
     color="#eff9ff",
